@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-email-marketing-nextjs",
+  "capabilityKey": "liberusoftware/module-crm-email-marketing",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-crm-email-marketing-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/crm/nextjs/email-marketing.md",
+  "presentationPlan": "projects/crm/nextjs/email-marketing.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
